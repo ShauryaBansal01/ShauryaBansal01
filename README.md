@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi , I m Shaurya Bansal.<br>I m currently working on CareerLens .<br>I love developing scalable full stack applications .<br>I would to collaborate with some to help me make CareerLens .<br>My Hobbies are listening to music , going to gym , and trying to sing too
+Hi , I m Shaurya Bansal.<br>I m currently working on CareerLens .<br>I love developing scalable full stack applications .<br>My Hobbies are listening to music , going to gym , and trying to sing too
 
 
 ## 🌐 Socials:
