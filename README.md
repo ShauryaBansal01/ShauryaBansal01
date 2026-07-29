@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/banner.svg" alt="Shaurya Bansal — Full Stack Developer" width="100%" />
+<img src="https://raw.githubusercontent.com/ShauryaBansal01/ShauryaBansal01/main/banner.svg" alt="Shaurya Bansal — Full Stack Developer" width="100%" />
 
 <br/>
 
