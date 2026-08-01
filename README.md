@@ -48,11 +48,8 @@ const shaurya = {
 | Project | What it does | Stack |
 | --- | --- | --- |
 | **[CareerLens](https://github.com/ShauryaBansal01/CareerLens)** | Current main project — career intelligence platform | `JavaScript` |
-| **[ai-job-search](https://github.com/ShauryaBansal01/ai-job-search)** | Local-first AI job application framework: evaluates postings, tailors CVs, writes cover letters, preps interviews | `TypeScript` |
-| **[HirePrep](https://github.com/ShauryaBansal01/HirePrep)** | Interview preparation tooling | `TypeScript` |
 | **[PII Redaction Tool](https://github.com/ShauryaBansal01/-PII-Redaction-Tool)** | Detects and redacts personally identifiable information from documents | `Python` |
 | **[HR Shortlisting Agent](https://github.com/ShauryaBansal01/HR-Resume-LinkedIn-Shortlisting-Agent)** | Agent that screens resumes and LinkedIn profiles for shortlisting | `JavaScript` |
-| **[Amazon-AWS-Route53](https://github.com/ShauryaBansal01/Amazon-AWS-Route53)** | AWS Route 53 / cloud networking work | `TypeScript` |
 | **[Deepfake Video Detect](https://github.com/ShauryaBansal01/Deepfake_video-detect)** | ML model for detecting manipulated video | `Python` |
 | **[Travel Planner](https://github.com/ShauryaBansal01/Travel-Planner)** | Trip planning app | `TypeScript` |
 
